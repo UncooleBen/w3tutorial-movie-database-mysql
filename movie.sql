@@ -1,3 +1,7 @@
+-- Author: Juntao Peng
+-- Feel free to use this script in easing your movie database creation.
+-- Please keep this comment.
+
 DROP DATABASE IF EXISTS db_movie;
 CREATE DATABASE db_movie;
 USE db_movie;
